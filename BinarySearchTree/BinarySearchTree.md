@@ -3,7 +3,7 @@
 
 ---
 ### 1. Binary-Search-Tree aşamalarını yazınız.
-![binarysearchtree](file:///C:/Users/Mucahit/Desktop/VeriYapilariveAlgoritmalar/bstree.png)
+![image](https://raw.githubusercontent.com/mucahitbz/VeriYapilariveAlgoritmalar/main/bstree.png)
 ## Detaylar
 1.Öncelikle 7 değerini ekliyoruz. Daha önceden eklenmiş bir değer olmadığı için 7 değeri ağacımızın root değeri olarak belirlenmiş olur.
 

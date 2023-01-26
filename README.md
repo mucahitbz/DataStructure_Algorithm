@@ -1,2 +1,2 @@
-# Patika.dev Veri Yapıları ve Algoritmaları Eğitimi Final Projesi
-Bu projede Binary Search Tree, Insertion Sort ve Merge Sort algortima çalışmalarım bulunmaktatır.
+# Data Structure and Algorithm Project
+This project has included Binary Search Tree, Insertion Sort ve Merge Sort Algortihms.
